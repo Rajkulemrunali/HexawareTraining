@@ -1,0 +1,7 @@
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task2\Task2\obj\Debug\Task2.pdb
