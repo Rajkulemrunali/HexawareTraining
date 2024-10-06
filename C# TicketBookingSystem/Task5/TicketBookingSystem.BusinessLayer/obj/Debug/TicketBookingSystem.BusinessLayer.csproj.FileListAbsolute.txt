@@ -1,0 +1,9 @@
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.BusinessLayer.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBookingSystem.BusinessLayer.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.BusinessLayer\obj\Debug\TicketBo.DA6B1B29.Up2Date
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.BusinessLayer\bin\Debug\TicketBookingSystem.BusinessLayer.dll
