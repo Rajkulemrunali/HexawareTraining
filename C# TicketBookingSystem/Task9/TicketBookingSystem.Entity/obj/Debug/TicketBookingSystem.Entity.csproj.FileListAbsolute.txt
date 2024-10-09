@@ -1,0 +1,18 @@
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.Entity\bin\Debug\TicketBookingSystem.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.Entity\bin\Debug\TicketBookingSystem.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4,5,6\TicketBookingSystem.Entity\bin\Debug\TicketBookingSystem.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4,5,6\TicketBookingSystem.Entity\bin\Debug\TicketBookingSystem.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4,5,6\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4,5,6\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4,5,6\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task4,5,6\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task7 & 8\TicketBookingSystem.Entity\bin\Debug\TicketBookingSystem.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task7 & 8\TicketBookingSystem.Entity\bin\Debug\TicketBookingSystem.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task7 & 8\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task7 & 8\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task7 & 8\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\C# TicketBookingSystem\Task7 & 8\TicketBookingSystem.Entity\obj\Debug\TicketBookingSystem.Entity.pdb
