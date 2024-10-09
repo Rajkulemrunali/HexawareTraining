@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.BusinessLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{772D73DC-B3BE-4E5D-B495-F295356FC939}|..\\TicketBookingSystem.Entity\\TicketBookingSystem.Entity.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\c# ticketbookingsystem\\task4,5,6\\ticketbookingsystem.entity\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696D9D15-4388-48BD-84A9-A9030BF1EFCB}|TicketBookingSystem.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\c# ticketbookingsystem\\task4,5,6\\ticketbookingsystem.businesslayer\\repository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696D9D15-4388-48BD-84A9-A9030BF1EFCB}|TicketBookingSystem.BusinessLayer.csproj|solutionrelative:repository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696D9D15-4388-48BD-84A9-A9030BF1EFCB}|TicketBookingSystem.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\c# ticketbookingsystem\\task4,5,6\\ticketbookingsystem.businesslayer\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696D9D15-4388-48BD-84A9-A9030BF1EFCB}|TicketBookingSystem.BusinessLayer.csproj|solutionrelative:repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696D9D15-4388-48BD-84A9-A9030BF1EFCB}|TicketBookingSystem.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\c# ticketbookingsystem\\task4,5,6\\ticketbookingsystem.businesslayer\\service\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696D9D15-4388-48BD-84A9-A9030BF1EFCB}|TicketBookingSystem.BusinessLayer.csproj|solutionrelative:service\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696D9D15-4388-48BD-84A9-A9030BF1EFCB}|TicketBookingSystem.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\c# ticketbookingsystem\\task4,5,6\\ticketbookingsystem.businesslayer\\service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696D9D15-4388-48BD-84A9-A9030BF1EFCB}|TicketBookingSystem.BusinessLayer.csproj|solutionrelative:service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.Entity\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\TicketBookingSystem.Entity\\Booking.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.Entity\\Booking.cs*",
+              "RelativeToolTip": "..\\TicketBookingSystem.Entity\\Booking.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:14:44.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.BusinessLayer\\Repository\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.BusinessLayer\\Repository\\IBookingRepository.cs*",
+              "RelativeToolTip": "Repository\\IBookingRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:12:26.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.BusinessLayer\\Service\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Service\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.BusinessLayer\\Service\\IBookingService.cs",
+              "RelativeToolTip": "Service\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:12:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.BusinessLayer\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.BusinessLayer\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "Repository\\BookingRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:11:04.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.BusinessLayer\\Service\\BookingService.cs",
+              "RelativeDocumentMoniker": "Service\\BookingService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\C# TicketBookingSystem\\Task4,5,6\\TicketBookingSystem.BusinessLayer\\Service\\BookingService.cs",
+              "RelativeToolTip": "Service\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:12:32.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
