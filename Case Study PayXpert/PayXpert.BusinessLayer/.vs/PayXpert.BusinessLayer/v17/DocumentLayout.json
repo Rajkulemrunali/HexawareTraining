@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D359D19-44AE-4FEC-B572-985B9FD3E34E}|..\\PayXpert.DataAccessLayer\\PayXpert.DataAccessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.dataaccesslayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD5B4C-C732-46A5-AC22-08A02C87A3E9}|..\\PayXpert.UI\\PayXpert.UI.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D359D19-44AE-4FEC-B572-985B9FD3E34E}|..\\PayXpert.DataAccessLayer\\PayXpert.DataAccessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.dataaccesslayer\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3658323F-5B0E-4282-87A4-BBF5FBB48DFE}|..\\PayXpert.Entity\\PayXpert.Entity.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.entity\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3658323F-5B0E-4282-87A4-BBF5FBB48DFE}|..\\PayXpert.Entity\\PayXpert.Entity.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3658323F-5B0E-4282-87A4-BBF5FBB48DFE}|..\\PayXpert.Entity\\PayXpert.Entity.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.entity\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3658323F-5B0E-4282-87A4-BBF5FBB48DFE}|..\\PayXpert.Entity\\PayXpert.Entity.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.entity\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\service\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\service\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\service\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\service\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\service\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\service\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\service\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\service\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\service\\ifinancialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\service\\ifinancialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\service\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\service\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\repository\\ipayrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\repository\\ipayrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\repository\\itaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\repository\\itaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\repository\\ifinancialrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\repository\\ifinancialrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\repository\\financialrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\repository\\financialrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\repository\\taxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\repository\\taxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\repository\\payrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\repository\\payrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|c:\\users\\mrunali rajkule\\onedrive\\documents\\desktop\\hexaware training\\c# training\\case study payxpert\\payxpert.businesslayer\\payxpert.businesslayer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAED0142-2045-4C50-9DF3-BF99E0B6137B}|PayXpert.BusinessLayer\\PayXpert.BusinessLayer.csproj|solutionrelative:payxpert.businesslayer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.DataAccessLayer\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\PayXpert.DataAccessLayer\\Employee.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.DataAccessLayer\\Employee.cs",
+              "RelativeToolTip": "..\\PayXpert.DataAccessLayer\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:08:31.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.UI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PayXpert.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.UI\\Program.cs",
+              "RelativeToolTip": "..\\PayXpert.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:23:09.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.DataAccessLayer\\DBUtil.cs",
+              "RelativeDocumentMoniker": "..\\PayXpert.DataAccessLayer\\DBUtil.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.DataAccessLayer\\DBUtil.cs",
+              "RelativeToolTip": "..\\PayXpert.DataAccessLayer\\DBUtil.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:50:49.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinancialRecord.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.Entity\\FinancialRecord.cs",
+              "RelativeDocumentMoniker": "..\\PayXpert.Entity\\FinancialRecord.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.Entity\\FinancialRecord.cs",
+              "RelativeToolTip": "..\\PayXpert.Entity\\FinancialRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:47:02.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.Entity\\Payroll.cs",
+              "RelativeDocumentMoniker": "..\\PayXpert.Entity\\Payroll.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.Entity\\Payroll.cs",
+              "RelativeToolTip": "..\\PayXpert.Entity\\Payroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:46:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.Entity\\Tax.cs",
+              "RelativeDocumentMoniker": "..\\PayXpert.Entity\\Tax.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.Entity\\Tax.cs",
+              "RelativeToolTip": "..\\PayXpert.Entity\\Tax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:46:15.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\PayXpert.Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.Entity\\Employee.cs",
+              "RelativeToolTip": "..\\PayXpert.Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:45:42.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinancialRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\FinancialRecordService.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Service\\FinancialRecordService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\FinancialRecordService.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Service\\FinancialRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:45:08.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaxService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\TaxService.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Service\\TaxService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\TaxService.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Service\\TaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:44:47.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:44:32.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PayrollService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\PayrollService.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Service\\PayrollService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\PayrollService.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Service\\PayrollService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:44:14.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPayrollService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\IPayrollService.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Service\\IPayrollService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\IPayrollService.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Service\\IPayrollService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:43:48.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFinancialRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\IFinancialRecordService.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Service\\IFinancialRecordService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\IFinancialRecordService.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Service\\IFinancialRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:43:19.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\ITaxService.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Service\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\ITaxService.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Service\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:42:57.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Service\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Service\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:42:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPayrollRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\IPayrollRepository.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Repository\\IPayrollRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\IPayrollRepository.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Repository\\IPayrollRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:42:16.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:41:53.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITaxRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\ITaxRepository.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Repository\\ITaxRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\ITaxRepository.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Repository\\ITaxRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:41:23.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFinancialRecordREpository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\IFinancialRecordREpository.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Repository\\IFinancialRecordREpository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\IFinancialRecordREpository.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Repository\\IFinancialRecordREpository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:41:08.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FinancialRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\FinancialRecordRepository.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Repository\\FinancialRecordRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\FinancialRecordRepository.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Repository\\FinancialRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:40:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaxRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\TaxRepository.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Repository\\TaxRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\TaxRepository.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Repository\\TaxRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:40:06.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PayrollRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\PayrollRepository.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Repository\\PayrollRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\PayrollRepository.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Repository\\PayrollRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:39:34.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "PayXpert.BusinessLayer\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\MRUNALI RAJKULE\\OneDrive\\Documents\\Desktop\\Hexaware Training\\C# Training\\Case Study PayXpert\\PayXpert.BusinessLayer\\PayXpert.BusinessLayer\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "PayXpert.BusinessLayer\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:39:21.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

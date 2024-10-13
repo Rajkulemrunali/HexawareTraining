@@ -1,0 +1,13 @@
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\bin\Debug\PayXpert.BusinessLayer.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\bin\Debug\PayXpert.BusinessLayer.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\obj\Debug\PayXpert.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\obj\Debug\PayXpert.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\obj\Debug\PayXpert.BusinessLayer.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\obj\Debug\PayXpert.BusinessLayer.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\bin\Debug\PayXpert.DataAccessLayer.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\bin\Debug\PayXpert.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\bin\Debug\PayXpert.DataAccessLayer.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\bin\Debug\PayXpert.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\obj\Debug\PayXpert.EDD3D9FE.Up2Date
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\bin\Debug\PayXpert.Exception.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.BusinessLayer\PayXpert.BusinessLayer\bin\Debug\PayXpert.Exception.pdb

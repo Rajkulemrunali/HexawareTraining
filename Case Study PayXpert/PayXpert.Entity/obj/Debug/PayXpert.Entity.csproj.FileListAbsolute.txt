@@ -1,0 +1,6 @@
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Entity\bin\Debug\PayXpert.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Entity\bin\Debug\PayXpert.Entity.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Entity\obj\Debug\PayXpert.Entity.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Entity\obj\Debug\PayXpert.Entity.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Entity\obj\Debug\PayXpert.Entity.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Entity\obj\Debug\PayXpert.Entity.pdb

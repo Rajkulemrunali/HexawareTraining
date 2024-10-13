@@ -1,0 +1,6 @@
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Exception\bin\Debug\PayXpert.Exception.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Exception\bin\Debug\PayXpert.Exception.pdb
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Exception\obj\Debug\PayXpert.Exception.csproj.AssemblyReference.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Exception\obj\Debug\PayXpert.Exception.csproj.CoreCompileInputs.cache
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Exception\obj\Debug\PayXpert.Exception.dll
+C:\Users\MRUNALI RAJKULE\OneDrive\Documents\Desktop\Hexaware Training\C# Training\Case Study PayXpert\PayXpert.Exception\obj\Debug\PayXpert.Exception.pdb
