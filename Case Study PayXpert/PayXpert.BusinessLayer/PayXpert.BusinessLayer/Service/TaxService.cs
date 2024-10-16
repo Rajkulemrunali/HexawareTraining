@@ -14,7 +14,7 @@ namespace PayXpert.BusinessLayer.Service
     public class TaxService : ITaxService
     {
         ITaxRepository _taxRepository;
-        public TaxService(TaxRepository taxRepository)
+        public TaxService(ITaxRepository taxRepository)
         {
             _taxRepository = taxRepository;
         }
@@ -23,17 +23,17 @@ namespace PayXpert.BusinessLayer.Service
            return  _taxRepository.CalculateTax(employeeId, taxYear);
         }
 
-        public void GetTaxById(int taxId)
+        public Tax GetTaxById(int taxId)
         {
-            _taxRepository.GetTaxById(taxId);
+            return _taxRepository.GetTaxById(taxId);
         }
-        public void GetTaxesForEmployee(int employeeId)
+        public Tax GetTaxesForEmployee(int employeeId)
         {
-            _taxRepository.GetTaxesForEmployee(employeeId);
+            return _taxRepository.GetTaxesForEmployee(employeeId);
         }
-        public void GetTaxesForYear(int taxYear)
+        public Tax GetTaxesForYear(int taxYear)
         {
-            _taxRepository.GetTaxesForYear(taxYear);
+            return _taxRepository.GetTaxesForYear(taxYear);
         }
     }
 }

@@ -11,9 +11,9 @@ namespace PayXpert.BusinessLayer.Repository
 {
     public interface IPayrollRepository
     {
-        void GeneratePayroll(int payrollId, int employeeId, DateTime startDate, DateTime endDate);
-        void GetPayrollById(int payrollId);
-        void GetPayrollsForEmployee(int employeeId);
-        void GetPayrollsForPeriod(DateTime startDate, DateTime endDate);
+        bool GeneratePayroll(Payroll payroll);
+        Payroll GetPayrollById(int payrollId);
+        List<Payroll> GetPayrollsForEmployee(int employeeId);
+        List<Payroll> GetPayrollsForPeriod(DateTime startDate, DateTime endDate);
     }
 }

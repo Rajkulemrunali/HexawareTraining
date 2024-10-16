@@ -9,11 +9,11 @@ namespace PayXpert.BusinessLayer.Repository
 {
     public interface IEmployeeRepository
     {
-        void GetEmployeeById(int employeeId);
-        void GetAllEmployees();
-        void AddEmployee(Employee employee);
-        void UpdateEmployee(Employee employee);
-        void RemoveEmployee(int employeeId);
+        Employee GetEmployeeById(int employeeId);
+        List<Employee> GetAllEmployees();
+        bool AddEmployee(Employee employee);
+        bool UpdateEmployee(Employee employee);
+        bool RemoveEmployee(int employeeId);
 
     }
 }

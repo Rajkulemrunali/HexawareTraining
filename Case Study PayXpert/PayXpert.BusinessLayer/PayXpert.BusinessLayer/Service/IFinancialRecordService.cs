@@ -12,9 +12,9 @@ namespace PayXpert.BusinessLayer.Service
 {
     public interface IFinancialRecordService
     {
-        void AddFinancialRecord(int employeeId, string description, decimal amount, string recordType);
-        void GetFinancialRecordById(int recordId);
-        void GetFinancialRecordsForEmployee(int employeeId);
-        void GetFinancialRecordsForDate(DateTime recordDate);
+        bool AddFinancialRecord(int employeeId, string description, decimal amount, string recordType);
+        FinancialRecord GetFinancialRecordById(int recordId);
+        FinancialRecord GetFinancialRecordsForEmployee(int employeeId);
+        FinancialRecord GetFinancialRecordsForDate(DateTime recordDate);
     }
 }

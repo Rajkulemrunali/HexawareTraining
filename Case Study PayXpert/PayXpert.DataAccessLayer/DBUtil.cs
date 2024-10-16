@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
+using System.Configuration;
 
 namespace PayXpert.DataAccessLayer
 {
@@ -12,7 +13,7 @@ namespace PayXpert.DataAccessLayer
         public static SqlConnection getDBConnection()
         {
             //step 1 - Establish Connection
-            try
+            /*try
             {
                 SqlConnection conn;
                 string connectionString = "Data Source=LAPTOP-2G5S808O\\SQLEXPRESS; Initial Catalog=Payxpert; Integrated Security=True";
@@ -25,10 +26,12 @@ namespace PayXpert.DataAccessLayer
             {
                 Console.WriteLine(ex.Message);
                 return null;
-            }
-
-
-
+            }*/
+            SqlConnection conn;
+            conn = new SqlConnection();
+            conn.ConnectionString= ConfigurationManager.ConnectionStrings["PayXpertConnection"].ConnectionString;
+            return conn;
         }
+
     }
 }

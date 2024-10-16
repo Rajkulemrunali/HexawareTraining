@@ -14,27 +14,29 @@ namespace PayXpert.BusinessLayer.Service
     public class PayrollService : IPayrollService
     {
         IPayrollRepository _payrollRepository;
-        public PayrollService(PayrollRepository payrollRepository)
+        public PayrollService(IPayrollRepository payrollRepository)
         {
             _payrollRepository = payrollRepository;
         }
 
-        public void GeneratePayroll(int payrollId, int employeeId, DateTime startDate, DateTime endDate)
+        public bool GeneratePayroll(Payroll payroll)
         {
-            _payrollRepository.GeneratePayroll(payrollId, employeeId, startDate, endDate);
+            return _payrollRepository.GeneratePayroll(payroll);
         }
-        public void GetPayrollById(int payrollId)
+        public Payroll GetPayrollById(int payrollId)
         {
-            _payrollRepository.GetPayrollById(payrollId);
+            return _payrollRepository.GetPayrollById(payrollId);
         }
 
-        public void GetPayrollsForEmployee(int employeeId)
+        public List<Payroll> GetPayrollsForEmployee(int employeeId)
         {
-            _payrollRepository.GetPayrollsForEmployee(employeeId);
+            return _payrollRepository.GetPayrollsForEmployee(employeeId);
         }
-        public void GetPayrollsForPeriod(DateTime startDate, DateTime endDate)
+        public List<Payroll> GetPayrollsForPeriod(DateTime startDate, DateTime endDate)
         {
-            _payrollRepository.GetPayrollsForPeriod(startDate, endDate);
+            return _payrollRepository.GetPayrollsForPeriod(startDate, endDate);
         }
+
+        
     }
 }

@@ -13,27 +13,27 @@ namespace PayXpert.BusinessLayer.Service
     public class FinancialRecordService : IFinancialRecordService
     {
         IFinancialRecordRepository _financialRecordRepository;
-        public FinancialRecordService(FinancialRecordRepository financialRecordRepository)
+        public FinancialRecordService(IFinancialRecordRepository financialRecordRepository)
         {
             _financialRecordRepository = financialRecordRepository;
         }
 
-        public void AddFinancialRecord(int employeeId, string description, decimal amount, string recordType)
+        public bool AddFinancialRecord(int employeeId, string description, decimal amount, string recordType)
         {
-            _financialRecordRepository.AddFinancialRecord(employeeId, description, amount, recordType);
+           return  _financialRecordRepository.AddFinancialRecord(employeeId, description, amount, recordType);
         }
 
-        public void GetFinancialRecordById(int recordId)
+        public FinancialRecord GetFinancialRecordById(int recordId)
         {
-            _financialRecordRepository.GetFinancialRecordById(recordId);
+            return _financialRecordRepository.GetFinancialRecordById(recordId);
         }
-        public void GetFinancialRecordsForEmployee(int employeeId)
+        public FinancialRecord GetFinancialRecordsForEmployee(int employeeId)
         {
-            _financialRecordRepository.GetFinancialRecordsForEmployee(employeeId);
+            return _financialRecordRepository.GetFinancialRecordsForEmployee(employeeId);
         }
-        public void GetFinancialRecordsForDate(DateTime recordDate)
+        public FinancialRecord GetFinancialRecordsForDate(DateTime recordDate)
         {
-            _financialRecordRepository.GetFinancialRecordsForDate(recordDate);
+            return _financialRecordRepository.GetFinancialRecordsForDate(recordDate);
         }
     }
 }

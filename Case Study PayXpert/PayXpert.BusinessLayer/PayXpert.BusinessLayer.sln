@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayXpert.DataAccessLayer", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayXpert.UI", "..\PayXpert.UI\PayXpert.UI.csproj", "{D3DD5B4C-C732-46A5-AC22-08A02C87A3E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayXpert.Exception", "..\PayXpert.Exception\PayXpert.Exception.csproj", "{1E913640-6409-470D-9DC1-56348F3691C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayXpert.Test", "..\PayXpert.Test\PayXpert.Test.csproj", "{B55443D0-7147-4DAC-8704-80A30BB6D008}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{D3DD5B4C-C732-46A5-AC22-08A02C87A3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3DD5B4C-C732-46A5-AC22-08A02C87A3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3DD5B4C-C732-46A5-AC22-08A02C87A3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E913640-6409-470D-9DC1-56348F3691C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E913640-6409-470D-9DC1-56348F3691C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E913640-6409-470D-9DC1-56348F3691C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E913640-6409-470D-9DC1-56348F3691C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55443D0-7147-4DAC-8704-80A30BB6D008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55443D0-7147-4DAC-8704-80A30BB6D008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55443D0-7147-4DAC-8704-80A30BB6D008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55443D0-7147-4DAC-8704-80A30BB6D008}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

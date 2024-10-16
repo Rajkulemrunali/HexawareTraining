@@ -12,8 +12,8 @@ namespace PayXpert.BusinessLayer.Repository
     public interface ITaxRepository
     {
         decimal CalculateTax(int employeeId, int taxYear);
-        void GetTaxById(int taxId);
-        void GetTaxesForEmployee(int employeeId);
-        void GetTaxesForYear(int taxYear);
+        Tax GetTaxById(int taxId);
+        Tax GetTaxesForEmployee(int employeeId);
+        Tax GetTaxesForYear(int taxYear);
     }
 }

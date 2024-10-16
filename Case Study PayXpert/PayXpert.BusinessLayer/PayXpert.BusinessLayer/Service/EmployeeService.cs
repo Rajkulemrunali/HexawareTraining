@@ -11,29 +11,29 @@ namespace PayXpert.BusinessLayer.Service
     public class EmployeeService : IEmployeeService
     {
         IEmployeeRepository _employeeRepository;
-        public EmployeeService(EmployeeRepository employeeRepository)
+        public EmployeeService(IEmployeeRepository employeeRepository)
         {
             _employeeRepository = employeeRepository;
         }
-        public void GetEmployeeById(int id)
+        public Employee GetEmployeeById(int id)
         {
-            _employeeRepository.GetEmployeeById(id);
+            return _employeeRepository.GetEmployeeById(id);
         }
-        public void GetAllEmployees()
+        public List<Employee> GetAllEmployees()
         {
-            _employeeRepository.GetAllEmployees();
+           return _employeeRepository.GetAllEmployees();
         }
-        public void AddEmployee(Employee employee)
+        public bool AddEmployee(Employee employee)
         {
-            _employeeRepository.AddEmployee(employee);
+           return _employeeRepository.AddEmployee(employee);
         }
-        public void UpdateEmployee(Employee employee)
+        public bool UpdateEmployee(Employee employee)
         {
-            _employeeRepository.UpdateEmployee(employee);
+            return _employeeRepository.UpdateEmployee(employee);
         }
-        public void RemoveEmployee(int employeeId)
+        public bool RemoveEmployee(int employeeId)
         {
-            _employeeRepository.RemoveEmployee(employeeId);
+           return _employeeRepository.RemoveEmployee(employeeId);
         }
 
 
